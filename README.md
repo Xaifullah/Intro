@@ -22,4 +22,4 @@ Let's stay connected! Feel free to reach out to me on any of the following platf
 
 ## Let's Collaborate
 
-I'm always open to collaboration and new opportunities. If you're interested in working together or have any questions about my projects, don't hesitate to [reach out](mailto:youremail@example.com).
+I'm always open to collaboration and new opportunities. If you're interested in working together or have any questions about my projects, don't hesitate to [reach out](mailto:saifullahsadi@hotmail.com).
