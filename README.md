@@ -8,7 +8,9 @@ I have 10 YEARS of experience in the industry, specializing in Game Development 
 
 ## Portfolio Highlights
 
-- **Crib & Condo** - [Brief Description]
+- **Crib & Condo** - https://pk.linkedin.com/in/xaifullahxady
+
+
 - **Gamers Lounge** - [Brief Description]
 - **Metaverse Hub** - [Brief Description]
 
