@@ -8,12 +8,15 @@ I have 10 YEARS of experience in the industry, specializing in Game Development 
 
 ## Portfolio Highlights
 
-- [**Crib & Condo**](https://virtua.com/metaverse) Come and explore virtual 3D spaces and invite your friends! Get ready for a world of limitless possibilities!
+- [**Crib & Condo**](https://virtua.com/metaverse) 
+Come and explore virtual 3D spaces and invite your friends! Get ready for a world of limitless possibilities!
 
-- [**Gamers Lounge**](https://dashboard.virtua.com/) Your own virtual lounge. Decorate, personalize, customize, invite friends, and a lot more!
+- [**Gamers Lounge**](https://dashboard.virtua.com/) 
+Your own virtual lounge. Decorate, personalize, customize, invite friends, and a lot more!
 
 
-- [**Maians**](https://maians.io/)Introducing Maians - A groundbreaking 3D avatar that seamlessly integrates AI, Social, Identity, and web3 in one revolutionary product. With unprecedented scalability and adaptability, Maians represent a new type of identity for the digital world.
+- [**Maians**](https://maians.io/) 
+Introducing Maians - A groundbreaking 3D avatar that seamlessly integrates AI, Social, Identity, and web3 in one revolutionary product. With unprecedented scalability and adaptability, Maians represent a new type of identity for the digital world.
 
 ## Connect With Me
 
@@ -21,7 +24,7 @@ Let's stay connected! Feel free to reach out to me on any of the following platf
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&labelColor=blue)](https://pk.linkedin.com/in/xaifullahxady) 
 <!--- ![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter&labelColor=blue)(Your Twitter Profile URL)-->
-- ![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github&labelColor=blue) https://github.com/Xaifullah/Intro
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github&labelColor=blue)](https://github.com/Xaifullah/Intro)
 
 ## Let's Collaborate
 
