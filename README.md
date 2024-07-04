@@ -13,7 +13,7 @@ I have 10 YEARS of experience in the industry, specializing in Game Development 
 - [**Gamers Lounge**](https://dashboard.virtua.com/) Your own virtual lounge. Decorate, personalize, customize, invite friends, and a lot more!
 
 
-- **Maians** - [Brief Description]
+- [**Maians**](https://maians.io/)Introducing Maians - A groundbreaking 3D avatar that seamlessly integrates AI, Social, Identity, and web3 in one revolutionary product. With unprecedented scalability and adaptability, Maians represent a new type of identity for the digital world.
 
 ## Connect With Me
 
