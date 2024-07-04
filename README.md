@@ -8,11 +8,9 @@ I have 10 YEARS of experience in the industry, specializing in Game Development 
 
 ## Portfolio Highlights
 
-- [**Crib & Condo**](https://virtua.com/metaverse)
-- Come and explore virtual 3D spaces and invite your friends! Get ready for a world of limitless possibilities!
+- [**Crib & Condo**](https://virtua.com/metaverse) Come and explore virtual 3D spaces and invite your friends! Get ready for a world of limitless possibilities!
 
-- [**Gamers Lounge**](https://dashboard.virtua.com/)
- Your own virtual lounge. Decorate, personalize, customize, invite friends, and a lot more!
+- [**Gamers Lounge**](https://dashboard.virtua.com/) Your own virtual lounge. Decorate, personalize, customize, invite friends, and a lot more!
 
 
 - **Maians** - [Brief Description]
