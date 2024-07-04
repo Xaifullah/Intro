@@ -19,7 +19,7 @@ I have 10 YEARS of experience in the industry, specializing in Game Development 
 
 Let's stay connected! Feel free to reach out to me on any of the following platforms:
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&labelColor=blue) https://pk.linkedin.com/in/xaifullahxady
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&labelColor=blue)](https://pk.linkedin.com/in/xaifullahxady) 
 <!--- ![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter&labelColor=blue)(Your Twitter Profile URL)-->
 - ![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github&labelColor=blue) https://github.com/Xaifullah/Intro
 
